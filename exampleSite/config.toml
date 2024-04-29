@@ -1,6 +1,6 @@
-baseURL               = "https://bioit.top/"
+baseURL               = "https://dh.ssdxz.site/"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
+title                 = "ss的资源库"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -15,8 +15,8 @@ publishDir            = "public"				# 站点静态文件保存目录
     about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "Hugo 网址导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
-    expandSidebar = false					# 默认展开左侧边导航栏
+    textPreLoad   = "帅帅的资源库"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = true					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     nightMode     = false					# 默认站点为深色(夜间)模式
@@ -45,4 +45,4 @@ publishDir            = "public"				# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：shen@weiyan.cc <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：123@ssdxz.site <br/>&copy; 2021 - {year} By [ss的主页](https://github.com/shenweiyan/WebStack-Hugo) | [帅帅的博客](https://boke.ssdxz.site/) | ss的资源库(http://beian.miit.gov.cn/)<br/>'
